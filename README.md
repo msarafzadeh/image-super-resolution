@@ -1,1 +1,1 @@
-# superres
+# image super resolution
