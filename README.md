@@ -3,10 +3,10 @@ Using deep learning (neural networks and CNNS) to increase the resolution of a n
 
 Reached an accuracy of 76% using Final Model (Model \#24)
 
-Watch presentation here: https://www.youtube.com/watch?v=2MgLZ7AdsJQ
+<b>Watch presentation here: https://www.youtube.com/watch?v=2MgLZ7AdsJQ
+<br /><br />
 
-
-Created by:
+<i>Created by:
 Matityahu Sarafzadeh
 
 
