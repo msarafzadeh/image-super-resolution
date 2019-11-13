@@ -1,0 +1,2 @@
+ls res300 | xargs -I {} convert res300/{} -gravity center -crop 300x300+0+0 crop/{}
+
