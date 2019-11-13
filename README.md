@@ -5,7 +5,9 @@ Reached an accuracy of 76% using Final Model (Model \#24)
 
 Watch presentation here: https://www.youtube.com/watch?v=2MgLZ7AdsJQ
 
+
 Created by:
 Matityahu Sarafzadeh
+
 
 \# tags: keras, cnn, computer vision, deep learning, neural networks
